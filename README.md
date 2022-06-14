@@ -3,8 +3,6 @@ Responsive Logo built with Bootstrap 5. Navbar with logo, logo centered in Navba
 
 Check out [Bootstrap Logo Documentation](https://mdbootstrap.com/docs/standard/extended/logo/) for detailed instructions & even more examples.
 
-![Bootstrap Logo](https://mdbootstrap.com/img/Marketing/github/dark-mode/basic.jpeg)
-
 
 ## Navbar Logo
 
