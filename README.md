@@ -58,7 +58,7 @@ Basic examples of Navbar Logo with the use of `.navbar-brand wrapper`. Learn mor
 Click on the image below to view an example of a centered logo in a navbar. In this case, this is a double navbar, but you can also use with a single navbar.
 
 [Bootstrap Logo:
-![Bootstrap Logo](https://mdbootstrap.com/img/Marketing/github/logo/basic3.jpeg)](https://mdbootstrap.com/snippets/standard/mdbootstrap/2949023?view=side)
+![Bootstrap Logo](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content-gh/en/_mdb5/standard/web/docs/navigation/navbar/examples/assets/4.jpg)](https://mdbootstrap.com/snippets/standard/mdbootstrap/2949023?view=side)
 
 
 ## Logo Above Navbar
@@ -66,7 +66,7 @@ Click on the image below to view an example of a centered logo in a navbar. In t
 Sometimes it makes sense to put your logo above the navbar. Keep in mind that it makes the navigation bar take more vertical space.
 
 [Bootstrap Logo:
-![Bootstrap Logo](https://mdbootstrap.com/img/Marketing/github/logo/basic4.jpeg)](https://mdbootstrap.com/snippets/standard/mdbootstrap/2949664?view=side)
+![Bootstrap Logo](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content-gh/en/_mdb5/standard/web/docs/navigation/navbar/examples/assets/29.jpg)](https://mdbootstrap.com/snippets/standard/mdbootstrap/2949664?view=side)
 
 
 ## How to use?
